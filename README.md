@@ -1,0 +1,2 @@
+# odoo
+Practica Odoo
